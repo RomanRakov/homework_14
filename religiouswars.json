@@ -1,0 +1,49 @@
+{
+    "wars": [
+        {
+            "name": "Крестовые походы",
+            "years_of_war": {
+                "start_year": 1096,
+                "end_year": 1291
+            },
+            "losses": "Неизвестно",
+            "number_of_participants": "Неизвестно"
+        },
+        {
+            "name": "Религиозные войны во Франции XVI века",
+            "years_of_war": {
+                "start_year": 1562,
+                "end_year": 1598
+            },
+            "losses": "Неизвестно",
+            "number_of_participants": "Неизвестно"
+        },
+        {
+            "name": "Альбигойские войны",
+            "years_of_war": {
+                "start_year": 1209,
+                "end_year": 1229
+            },
+            "losses": "Примерно 1 миллион",
+            "number_of_participants": "Неизвестно"
+        },
+        {
+            "name": "Шмалькальденская война",
+            "years_of_war": {
+                "start_year": 1546,
+                "end_year": 1547
+            },
+            "losses": "Неизвестно",
+            "number_of_participants": "Неизвестно"
+        },
+        {
+            "name": "Реконкиста",
+            "years_of_war": {
+                "start_year": 790,
+                "end_year": 1309
+            },
+            "losses": "Неизвестно",
+            "number_of_participants": "Неизвестно"
+        }
+    ]
+}

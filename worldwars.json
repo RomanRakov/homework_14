@@ -1,0 +1,22 @@
+{
+    "wars": [
+        {
+            "name": "Первая Мировая Война",
+            "years_of_war": {
+                "start_year": 1914,
+                "end_year": 1918
+            },
+            "losses": 70000000,
+            "number_of_participants": 38
+        },
+        {
+            "name": "Вторая Мировая Война",
+            "years_of_war": {
+                "start_year": 1939,
+                "end_year": 1945
+            },
+            "losses": 100000000,
+            "number_of_participants": 61
+        }
+    ]
+}

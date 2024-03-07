@@ -1,0 +1,49 @@
+{
+    "wars": [
+        {
+            "name": "Гражданская война в США",
+            "years_of_war": {
+                "start_year": 1861,
+                "end_year": 1865
+            },
+            "losses": "Примерно 2.5 миллиона",
+            "number_of_participants": 1
+        },
+        {
+            "name": "Гражданская война в Испании",
+            "years_of_war": {
+                "start_year": 1936,
+                "end_year": 1939
+            },
+            "losses": "Примерно 500 тысяч",
+            "number_of_participants": 1
+        },
+        {
+            "name": "Гражданская война в России",
+            "years_of_war": {
+                "start_year": 1918,
+                "end_year": 1922
+            },
+            "losses": "Примерно 15 миллионов",
+            "number_of_participants": 1
+        },
+        {
+            "name": "Гражданская война в Гватемале",
+            "Years of war": {
+                "start_year": 1960,
+                "end_year": 1996
+            },
+            "losses": "Примерно 200 тысяч",
+            "number_of_participants": 1
+        },
+        {
+            "name": "Гражданская война в Колумбии",
+            "years_of_war": {
+                "start_year": 1948,
+                "end_year": 1958
+            },
+            "losses": "Примерно 300 тысяч",
+            "number_of_participants": 1
+        }
+    ]
+}

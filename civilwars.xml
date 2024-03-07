@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<wars>
+	<war>
+		<name>Гражданская война в США</name>
+		<years_of_war>
+		    <start_year>1861</start_year>
+		    <end_year>1865</end_year>
+		</years_of_war>
+		<losses>Примерно 2.5 миллиона</losses>
+		<number_of_participants>1</number_of_participants>
+	</war>
+	<war>
+		<name>Гражданская война в Испании</name>
+		<years_of_war>
+		    <start_year>1936</start_year>
+		    <end_year>1939</end_year>		
+	    </years_of_war>
+		<losses>Примерно 500 тысяч</losses>
+		<number_of_participants>1</number_of_participants>
+	</war>
+	<war>
+		<name>Гражданская война в России</name>
+		<years_of_war>
+		    <start_year>1918</start_year>
+		    <end_year>1922</end_year>
+		</years_of_war>
+		<losses>Примерно 15 миллионов</losses>
+		<number_of_participants>1</number_of_participants>
+	</war>
+	<war>
+		<name>Гражданская война в Гватемале</name>
+		<years_of_war>
+		    <start_year>1960</start_year>
+		    <end_year>1996</end_year>
+		</years_of_war>
+		<losses>Примерно 200 тысяч</losses>
+		<number_of_participants>1</number_of_participants>
+	</war>
+	<war>
+		<name>Гражданская война в Колумбии</name>
+		<years_of_war>
+		    <start_year>1948</start_year>
+		    <end_year>1958</end_year>
+		</years_of_war>
+		<losses>Примерно 300 тысяч</losses>
+		<number_of_participants>1</number_of_participants>
+	</war>
+</wars>

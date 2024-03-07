@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<wars>
+    <war>
+        <name>Первая Мировая Война</name>
+		<years_of_war>
+            <start_year>1914</start_year>
+            <end_year>1918</end_year>
+		</years_of_war>
+        <losses>70 миллионов</losses>
+		<number_of_participants>38</number_of_participants>	
+    </war>
+    <war>
+        <name>Вторая Мировая Война</name>
+		<years_of_war>
+            <start_year>1939</start_year>
+            <end_year>1945</end_year>
+		</years_of_war>
+        <losses>100 миллионов</losses>
+	    <number_of_participants>61</number_of_participants>	
+    </war>
+</wars>
+
+
+
+       

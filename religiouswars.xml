@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<wars>
+	<war>
+		<name>Крестовые походы</name>
+		<years_of_war>
+			<start_year>1096</start_year>
+			<end_year>1291</end_year>
+		</years_of_war>
+		<losses>Неизвестно</losses>
+		<number_of_participants>Неизвестно</number_of_participants>
+	</war>
+	<war>
+		<name>Религиозные войны во Франции XVI века</name>
+		<years_of_war>
+			<start_year>1562</start_year>
+			<end_year>1598</end_year>
+		</years_of_war>
+		<losses>Неизвестно</losses>
+		<number_of_participants>Неизвестно</number_of_participants>
+	</war>
+	<war>
+		<name>Альбигойские войны</name>
+		<years_of_war>
+			<start_year>1209</start_year>
+			<end_year>1229</end_year>
+		</years_of_war>
+		<losses>Примерно 1 миллион</losses>
+		<number_of_participants>Неизвестно</number_of_participants>
+	</war>
+	<war>
+		<name>Шмалькальденская война</name>
+		<years_of_war>
+			<start_year>1546</start_year>
+			<end_year>1547</end_year>
+		</years_of_war>
+		<losses>Неизвестно</losses>
+		<number_of_participants>Неизвестно</number_of_participants>
+	</war>
+	<war>
+		<name>Реконкиста</name>
+		<years_of_war>
+			<start_year>790</start_year>
+			<end_year>1309</end_year>
+		</years_of_war>
+		<losses>Неизвестно</losses>
+		<number_of_participants>Неизвестно</number_of_participants>
+	</war>
+</wars>
